@@ -10,4 +10,4 @@ This is a first semester project to create a weather widget for a website that p
 
 ## Instructions
 
-stuff.
+To use this project, you can simply copy the repo content locally, include the javascript and css in your page and then add a div within your own page with a class of *weather-forecast*.
