@@ -1,13 +1,13 @@
-# forecast.io
+# forecast.io weather widget
 
 ## Author
 
 Ryan Doiron
 
-### Description of Project
+## Description of Project
 
-Blah blah blah.
+This is a first semester project to create a weather widget for a website that pulls in weather data using JSON.
 
-#### Instructions
+## Instructions
 
 stuff.
